@@ -99,7 +99,7 @@ if total_weight(weights) == 0:
     initialize_uniformly()
 else:
     particles = resample(weights, num_particles)
-
+```
 
 ## Technologies & Concepts
 
@@ -112,11 +112,3 @@ Particle Filtering
 Probabilistic Reasoning
 Belief-Based Decision Making
 
-## Concepts
-
-- Bayes Networks
-- Variable Elimination
-- Hidden Markov Models
-- Exact Inference
-- Particle Filtering
-- Probabilistic Reasoning
