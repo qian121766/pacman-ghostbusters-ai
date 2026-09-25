@@ -65,9 +65,9 @@ This connected probabilistic inference with actual decision-making in the game.
 
 The following examples are simplified pseudocode showing the main ideas I implemented without exposing the original course solution.
 
-### Factor Joining
 
 ```python
+### Factor Joining
 for assignment in all_assignments:
     probability = product(
         factor_probability(factor, assignment)
