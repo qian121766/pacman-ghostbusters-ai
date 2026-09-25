@@ -6,6 +6,10 @@ This project was completed as part of UC Berkeley CS 188: Introduction to Artifi
 
 The project focuses on probabilistic inference for tracking hidden ghosts in the Pacman environment using noisy sensor readings.
 
+## Demo
+
+![Pacman Ghostbusters Demo](ghostbusters-demo.png)
+
 ## What I Implemented
 
 - Bayes network construction
